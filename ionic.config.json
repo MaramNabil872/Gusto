@@ -1,0 +1,7 @@
+{
+  "name": "gusto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
