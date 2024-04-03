@@ -1,0 +1,21 @@
+.background {
+    background-color: #fdfffe;
+}
+ion-item {
+    --background: #fdfffe;
+    --color: #797171;
+}
+ion-col{
+    text-align: -webkit-center;
+    align-self: center;
+    
+}
+.loginText{
+    text-align: center;
+}
+.form{
+    color: brown;
+}
+ion-button{
+    --
+}

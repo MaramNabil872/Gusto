@@ -1,0 +1,103 @@
+.background {
+    background-color: #fdfffe;
+}
+ion-item {
+    --background: #fdfffe;
+    --color: #797171;
+}
+ion-col {
+    text-align: -webkit-center;
+    align-self: center;
+    /* padding-top: 40%; */
+}
+.loginText {
+    text-align: center;
+}
+.form {
+    padding-top: 20%;
+}
+ion-button {
+    --background: #009432;
+}
+.loginText {
+    color: #00822c;
+    font-weight: 800;
+    font-size: xx-large;
+}
+
+
+
+
+
+
+
+ion-grid {
+    width:100%;
+    height: $height100;
+    background: #dfdfdf;
+}
+
+
+ion-row {
+    height: $height100;
+}
+
+
+ion-col {
+    border: 1px solid #app-login {
+	    
+	}
+	
+
+	$white-color: #fff;
+	$height100: 100%;
+	
+
+	ion-grid {
+	    width:100%;
+	    height: $height100;
+	    background: #dfdfdf;
+	}
+	
+
+	ion-row {
+	    height: $height100;
+	}
+	
+
+	ion-col {
+	    border: 1px solid #488aff;
+	    background: white;
+	}
+	
+
+	ion-button {
+	    font-weight: 300;
+	}
+	
+
+	@media (min-width: 240px) and (max-width: 768px) {
+	    ion-grid {
+	        background: white;
+	    }
+	    ion-col {
+	        border: none;
+	    }
+	};
+    background:;
+}
+
+
+ion-button {
+    font-weight: 300;
+}
+
+
+@media (min-width: 240px) and (max-width: 768px) {
+    ion-grid {
+        background: $white-color;
+    }
+    ion-col {
+        border: none;
+    }
+}

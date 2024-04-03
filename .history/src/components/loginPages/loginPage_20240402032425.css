@@ -1,0 +1,36 @@
+.background{
+    background-color: #FDFFFE;
+},
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  h2 {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  @media (min-width: 576px) {
+    .login-container {
+      padding: 0 1rem;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .login-container {
+      padding: 0 2rem;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .login-container {
+      padding: 0 4rem;
+    }
+  }

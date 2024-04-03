@@ -1,0 +1,7 @@
+.background{
+    background-color: #FDFFFE;
+}
+ion-item{
+    --background: #FDFFFE;
+    --color: #fff;
+}

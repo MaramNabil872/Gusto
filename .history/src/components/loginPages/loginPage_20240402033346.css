@@ -1,0 +1,11 @@
+.background {
+    background-color: #fdfffe;
+}
+ion-item {
+    --background: #fdfffe;
+    --color: #797171;
+}
+ion-col{
+    text-align: -webkit-center;
+    align-self: ;
+}

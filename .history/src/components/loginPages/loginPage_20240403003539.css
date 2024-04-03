@@ -1,0 +1,34 @@
+ion-item {
+    --background: #fdfffe;
+    --color: #797171;
+}
+ion-grid {
+    height: -webkit-fill-available !important;
+    background-color: #ffffff;
+    width: 100%;
+}
+ion-row {
+    justify-content: center;
+}
+ion-buttom
+
+ion-col {
+    text-align: -webkit-center;
+    align-self: center;
+    height: -webkit-fill-available;
+    justify-content: center !important;
+}
+.loginText {
+    text-align: center;
+}
+.form {
+    padding-top: 20%;
+}
+ion-button {
+    --background: #009432;
+}
+.loginText {
+    color: #00822c;
+    font-weight: 800;
+    font-size: xx-large;
+}
